@@ -1,0 +1,9 @@
+# Игнорируем временные файлы Unity
+/Library/
+/Logs/
+/Temp/
+/obj/
+/Builds/
+/UserSettings/
+/Packages/
+.env
